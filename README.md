@@ -135,3 +135,7 @@ For production deployment:
 3.  Commit your changes
 4.  Push to the branch
 5.  Create a Pull Request 
+
+## Requirements
+
+Install dependencies with `pip install -r requirements.txt` (Django 5.0.2, Pillow).
